@@ -1,0 +1,2 @@
+# LaporanInheritance-app
+LaporanInheritance
